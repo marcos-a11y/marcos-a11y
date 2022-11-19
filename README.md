@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @marcos-a11y
-- 👀 I’m interested in computer enginner
+# 👋 Hi, I’m marcos
+- 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning in C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
